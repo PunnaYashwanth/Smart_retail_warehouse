@@ -1,0 +1,194 @@
+[
+  {
+    "order_id": "O1000",
+    "customer_id": "C200",
+    "order_date": "2025-11-01",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 1
+      },
+      {
+        "product_id": "P200",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "order_id": "O1001",
+    "customer_id": "C201",
+    "order_date": "2025-11-02",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 2
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1002",
+    "customer_id": "C202",
+    "order_date": "2025-11-03",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 3
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1003",
+    "customer_id": "C203",
+    "order_date": "2025-11-04",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 1
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1004",
+    "customer_id": "C204",
+    "order_date": "2025-11-05",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 2
+      },
+      {
+        "product_id": "P200",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "order_id": "O1005",
+    "customer_id": "C205",
+    "order_date": "2025-11-06",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 3
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1006",
+    "customer_id": "C206",
+    "order_date": "2025-11-07",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 1
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1007",
+    "customer_id": "C207",
+    "order_date": "2025-11-08",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 2
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1008",
+    "customer_id": "C208",
+    "order_date": "2025-11-09",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 3
+      },
+      {
+        "product_id": "P200",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "order_id": "O1009",
+    "customer_id": "C209",
+    "order_date": "2025-11-10",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 1
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1010",
+    "customer_id": "C200",
+    "order_date": "2025-11-11",
+    "platform": "web",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 2
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "order_id": "O1011",
+    "customer_id": "C201",
+    "order_date": "2025-11-12",
+    "platform": "mobile",
+    "items": [
+      {
+        "product_id": "P100",
+        "qty": 3
+      },
+      {
+        "product_id": "P200",
+        "qty": 2
+      }
+    ]
+  }
+]
