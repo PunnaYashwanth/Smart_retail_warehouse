@@ -1,0 +1,11 @@
+review_id,review_text,sentiment,review_date
+1,"Great product, really loved the freshness!",positive,2025-12-18
+2,"Worst experience ever, totally disappointed.",negative,2025-12-18
+3,"Value for money, good quality.",positive,2025-12-18
+4,"Stale and expired, never buying again.",negative,2025-12-18
+5,Excellent service and fast delivery.,positive,2025-12-18
+6,"Not satisfied with the packaging, came damaged.",negative,2025-12-18
+7,"Fresh and tasty, wil recommend to friends.",positive,2025-12-18
+8,Salty and bad taste.,negative,2025-12-18
+9,"Loved it, amazing quality!",positive,2025-12-18
+10,Poor customer service.,negative,2025-12-18
